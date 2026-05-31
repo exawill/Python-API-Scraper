@@ -108,7 +108,7 @@ Scraper/
 ### 2. Clone / Download
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/exawill/Python-API-Scraper/
 cd Scraper
 ```
 
