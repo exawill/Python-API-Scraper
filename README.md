@@ -109,7 +109,7 @@ Scraper/
 
 ```bash
 git clone https://github.com/exawill/Python-API-Scraper/
-cd Scraper
+cd Python-API-Scraper
 ```
 
 ### 3. Install Dependencies
