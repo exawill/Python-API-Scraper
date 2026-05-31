@@ -1,0 +1,18 @@
+# ─── Core Browser Automation ─────────────────────────────────────────
+playwright>=1.44.0
+
+# ─── HTML Parser ─────────────────────────────────────────────────────
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+
+# ─── Async HTTP Client (webhook dispatch) ────────────────────────────
+aiohttp>=3.9.0
+
+# ─── Discord Bot & Webhook ───────────────────────────────────────────
+discord.py>=2.3.0
+
+# ─── Secure Environment Variable Loading ─────────────────────────────
+python-dotenv>=1.0.0
+
+# ─── Process Tree Management (!stop kills all grandchild workers) ─────────────
+psutil>=5.9.0
